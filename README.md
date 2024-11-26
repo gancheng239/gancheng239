@@ -1,7 +1,7 @@
 - 👋 Hi, I’m gancheng
 - 👀 I’m interested in html
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me +8618378628085
+- 📫 How to reach me +8618378628085 or wsgcgcsw@163.com
 - ❤ My favorite game is 火影忍者(naruto)
 
 <!---
